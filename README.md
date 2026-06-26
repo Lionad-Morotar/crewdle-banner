@@ -1,4 +1,6 @@
-# crewdle-banner
+# demo-crewdle-banner
+
+线上地址：https://lionad-morotar.github.io/demo-crewdle-banner/
 
 Demo 项目，目标是复刻 [Crewdle.com](https://crewdle.com) 首页 Banner 的视觉效果。
 

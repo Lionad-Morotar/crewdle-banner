@@ -8,6 +8,6 @@ export default defineNuxtConfig({
     compatibilityVersion: 4,
   },
   app: {
-    baseURL: '/crewdle-banner/',
+    baseURL: '/demo-crewdle-banner/',
   },
 })
