@@ -1,0 +1,11 @@
+# Nuxt / Vue
+node_modules
+.nuxt
+.output
+dist
+
+# OS / Editor
+.DS_Store
+*.log
+.env
+.env.*
